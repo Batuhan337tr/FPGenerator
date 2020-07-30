@@ -14,3 +14,5 @@ FPGenerator Yazılım Kullanım Sözleşmesi
 
 1- Programın kaynak kodlarını dağıtma veya yeltenme durumunda sorumluluk şahsa aittir.
 2- Programın kötü niyetli kullanımından şahıs sorumludur.
+
+Not: Programı indirip kurduğunuz takdirde yukarıdaki hususları tek tek kabul etmiş bulunursunuz.
